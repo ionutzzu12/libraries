@@ -1,6 +1,26 @@
 {
   "docsPath": "docs/",
   "structure": {
-    "summary": "summary.md"
+    "summary": "summary.md",
+    "docsTree": [
+      {
+        "categoryName": "Summary",
+        "isCategory": true,
+        "children": [
+          {
+            "categoryName": "Sum Intro",
+            "isCategory": false,
+            "path": "intro.md",
+            "children": []
+          },
+          {
+            "categoryName": "Sum Guide",
+            "isCategory": false,
+            "path": "guide.md",
+            "children": []
+          }
+        ]
+      }
+    ]
   }
 }
